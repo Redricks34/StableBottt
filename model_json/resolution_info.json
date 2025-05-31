@@ -1,0 +1,18 @@
+{
+  "1:1": {
+    "image": "https://i.ibb.co/YPggpxj/Frame-1-34.png",
+    "resol": [512, 512]
+  },
+  "16:9": {
+    "image": "https://i.ibb.co/nLXxQnd/Frame-1-39.png",
+    "resol": [768, 512]
+  },
+  "9:16": {
+    "image": "https://i.ibb.co/RzTFxG1/Frame-1-37.png",
+    "resol": [512, 768]
+  },
+  "2:1": {
+    "image": "https://i.ibb.co/SJHMhzv/Frame-1-69.png",
+    "resol": [1024, 512]
+  }
+}
